@@ -24,4 +24,6 @@ Presentation 3:
 - Rushi Rami (Vester.com)
 - Laravel State Machine package [https://github.com/sebdesign/laravel-state-machine](https://github.com/sebdesign/laravel-state-machine)
 
-#
+##
+Note-able links:
+- [Live Coding: Laravel + Filament (YouTube)](https://www.youtube.com/watch?v=3gKjnFTE3Fs)
