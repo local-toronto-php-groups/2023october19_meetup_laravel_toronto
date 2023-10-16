@@ -27,3 +27,4 @@ Presentation 3:
 ##
 Note-able links:
 - [Live Coding: Laravel + Filament (YouTube)](https://www.youtube.com/watch?v=3gKjnFTE3Fs)
+- [https://laravel-news.com/pest-support-added-to-better-phpunit-vs-code-extension](https://laravel-news.com/pest-support-added-to-better-phpunit-vs-code-extension)
