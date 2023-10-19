@@ -21,7 +21,7 @@ Presentation 2:
 
 ##
 Presentation 3:
-- Rushi Rami (Vester.com)
+- Rushi Rami (Vetster.com)
 - Laravel State Machine package [https://github.com/sebdesign/laravel-state-machine](https://github.com/sebdesign/laravel-state-machine)
 
 ##
