@@ -28,6 +28,8 @@ Presentation 3:
 Note-able links:
 - [Live Coding: Laravel + Filament (YouTube)](https://www.youtube.com/watch?v=3gKjnFTE3Fs)
 - [https://laravel-news.com/pest-support-added-to-better-phpunit-vs-code-extension](https://laravel-news.com/pest-support-added-to-better-phpunit-vs-code-extension)
+- I found the "ServerlessPresso" video where AWS [https://www.youtube.com/watch?v=qs0U0LdNkV0&t=1221s](https://www.youtube.com/watch?v=qs0U0LdNkV0&t=1221s)
+  - What is AWS' ServerlessPresso? [https://www.youtube.com/watch?v=abIw_Wt53UM](https://www.youtube.com/watch?v=abIw_Wt53UM)
 
 ##
 Pics
