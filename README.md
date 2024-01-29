@@ -31,6 +31,7 @@ Note-able links:
 - I found the "ServerlessPresso" video where AWS [https://www.youtube.com/watch?v=qs0U0LdNkV0&t=1221s](https://www.youtube.com/watch?v=qs0U0LdNkV0&t=1221s)
   - What is AWS' ServerlessPresso? [https://www.youtube.com/watch?v=abIw_Wt53UM](https://www.youtube.com/watch?v=abIw_Wt53UM)
 - [Pest in Practice - PHP Annotated YouTube Video](https://www.youtube.com/watch?v=Vjjht-DMX3s)
+- [What Are Finite State Machines (php[architect]) (YouTube)](https://www.youtube.com/watch?v=1kbgP5-3Zag)
 
 ##
 Pics
